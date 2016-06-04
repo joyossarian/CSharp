@@ -1,0 +1,6 @@
+*.exe
+*.config
+CSharp6/CSharp6/bin/Debug/CSharp6.pdb
+*.pdb
+CSharp6/CSharp6/obj/Debug/CSharp6.csproj.FileListAbsolute.txt
+*.cache
